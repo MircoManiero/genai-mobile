@@ -1,5 +1,6 @@
 
 import React, { useEffect, useState } from 'react';
+import { Text } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
@@ -73,7 +74,7 @@ const AppNavigator = () => {
           <Stack.Screen name="Login" component={LoginScreen} />
         ) : (
           <>
-            <Stack.Screen name="Home" component={TabNavigator} />
+            <Stack.Screen name="Main" component={TabNavigator} />
             <Stack.Screen
               name="SettingsDetail"
               component={SettingsDetailScreen}

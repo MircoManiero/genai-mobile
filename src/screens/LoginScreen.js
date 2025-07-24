@@ -19,7 +19,7 @@ const LoginScreen = ({ navigation }) => {
 
   useEffect(() => {
     if (isAuthenticated) {
-      navigation.replace('Home');
+      navigation.replace('Main');
     }
   }, [isAuthenticated, navigation]);
 
@@ -37,7 +37,7 @@ const LoginScreen = ({ navigation }) => {
 
     const success = await login(email, password);
     if (success) {
-      navigation.replace('Home');
+      navigation.replace('Main');
     }
   };
 

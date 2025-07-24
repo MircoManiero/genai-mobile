@@ -1,2 +1,14 @@
 [nix]
 channel = "stable-25_05"
+
+[workflows]
+runButton = "Start Metro"
+
+[[workflows.workflow]]
+name = "Start Metro"
+author = 45357899
+mode = "sequential"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "npx react-native start"

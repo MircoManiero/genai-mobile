@@ -4,6 +4,7 @@ apply plugin: "com.facebook.react"
 
 android {
     compileSdkVersion rootProject.ext.compileSdkVersion
+    namespace "com.genaimobile"
 
     defaultConfig {
         applicationId "com.genaimobile"

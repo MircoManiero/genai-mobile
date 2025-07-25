@@ -1,0 +1,76 @@
+# Dipendenze
+/node_modules
+/ios/build
+/android/build
+/android/app/build
+/android/.gradle
+/android/.idea
+/android/captures
+/android/gradle/wrapper/.gradle
+/android/local.properties
+/android/app/src/debug/jniLibs
+/android/app/src/release/jniLibs
+/android/app/src/main/assets/index.android.bundle
+/android/app/src/main/assets/index.android.bundle.map
+/android/app/src/main/res/raw/app.json
+
+# Log e Cache
+*.log
+*.rn-codegen-out
+.react-native
+.expo
+.yarn-cache
+
+# Variabili d'ambiente
+.env
+.env.local
+.env.*.local
+
+# File di sistema e editor
+.DS_Store
+.vscode/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# File di configurazione del sistema operativo
+.Trashes
+Thumbs.db
+
+# Xcode
+/ios/*.xcworkspace
+/ios/*.xcodeproj/xcuserdata/
+/ios/*.xcodeproj/project.xcworkspace/xcuserdata/
+/ios/Pods/
+/ios/.xcode.env.local
+/ios/DerivedData/
+/ios/build/
+/ios/xcuserdata/
+/ios/profile/
+/ios/fastlane/report.xml
+/ios/fastlane/test_output/
+
+# Android
+/android/app/debug.keystore
+/android/app/release.keystore
+/android/gradle/
+/android/local.properties
+/android/key.properties
+/android/.idea/
+/android/.gradle/
+/android/build/
+/android/app/build/
+/android/app/.cxx/
+/android/app/src/main/assets/
+/android/app/src/main/res/
+/android/gradlew
+/android/gradlew.bat
+
+# Altri file generati
+/coverage/
+/dist/
+/temp/
+/tmp/
+
+# File di configurazione di Metro
+metro-cache/
+

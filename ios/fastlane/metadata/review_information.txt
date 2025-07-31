@@ -1,0 +1,23 @@
+# Nome e cognome del contatto per la revisione.
+first_name: Mirco
+last_name: Maniero
+
+# Numero di telefono del contatto per la revisione.
+phone_number: +39 0123 456789
+
+# Indirizzo email del contatto per la revisione.
+email: mirco.maniero@ennova-research.com
+
+# Se la tua app richiede un login, fornisci le credenziali di un account demo.
+# demo_user: testuser
+# demo_password: testpassword123!
+
+# Note aggiuntive per il revisore di Apple.
+# Ad esempio, istruzioni speciali per testare funzionalità, o se ci sono requisiti particolari.
+# (Max 4000 caratteri)
+notes: |
+  Gentile revisore,
+
+  Grazie per il suo tempo. Questa è la prima versione dell'applicazione.
+  Non sono previste funzionalità che richiedano credenziali di accesso.
+  Per qualsiasi chiarimento, non esiti a contattarci all'email fornita.

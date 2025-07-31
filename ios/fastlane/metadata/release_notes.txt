@@ -1,0 +1,7 @@
+# Breve descrizione delle novità di questa versione.
+# (Max 4000 caratteri)
+Aggiornamento iniziale:
+- Lancio della versione 1.0.0 di GenAI Mobile.
+- Funzionalità di generazione testo, traduzione e riassunto.
+- Interfaccia utente intuitiva e design moderno.
+- Miglioramenti delle prestazioni generali.

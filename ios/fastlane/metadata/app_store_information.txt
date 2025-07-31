@@ -1,0 +1,39 @@
+# Questo è il nome completo della tua app come apparirà sull'App Store.
+# (Max 30 caratteri)
+name: GenAI Mobile
+
+# Un breve sottotitolo che descrive la tua app.
+# (Max 30 caratteri)
+subtitle: La tua intelligenza artificiale mobile
+
+# La descrizione dettagliata della tua app. Sii specifico e convincente.
+# Puoi usare Markdown per formattare il testo.
+# (Max 4000 caratteri)
+description: |
+  Benvenuto in GenAI Mobile, la tua soluzione AI completa a portata di mano!
+
+  Con GenAI Mobile, puoi:
+  * Generare testi creativi e originali
+  * Ottenere risposte immediate a qualsiasi domanda
+  * Tradurre testi in tempo reale
+  * Riassumere documenti complessi in pochi secondi
+
+  Sfrutta la potenza dell'intelligenza artificiale per migliorare la tua produttività e creatività, ovunque tu sia. GenAI Mobile è progettato per essere intuitivo, veloce e sempre disponibile. Scarica ora e trasforma il modo in cui interagisci con l'AI!
+
+# Parole chiave che aiutano gli utenti a trovare la tua app nella ricerca.
+# Separale con virgole. (Max 100 caratteri)
+keywords: intelligenza artificiale, AI, generazione testo, traduzione, riassunto, chatbot, produttività, mobile, assistente AI
+
+# Testo promozionale breve e accattivante.
+# Puoi usarlo per evidenziare annunci, aggiornamenti o eventi speciali.
+# (Max 170 caratteri)
+promotional_text: Scopri la nuova era dell'AI mobile! Funzionalità avanzate e intuizione a portata di mano.
+
+# URL della tua politica sulla privacy.
+privacy_policy_url: https://www.tuo-dominio.com/privacy-policy
+
+# URL della pagina di supporto per la tua app.
+support_url: https://www.tuo-dominio.com/supporto
+
+# URL di un sito web di marketing per la tua app (opzionale).
+# marketing_url: https://www.tuo-dominio.com/app
